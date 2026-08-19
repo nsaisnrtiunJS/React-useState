@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+
+
+
+.btns{
+  display: flex;
+  gap: 1rem;
+}
+
+button{
+  padding: 5px 21px;
+  font-size: 18px;
+  font: bold;
+}
